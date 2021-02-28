@@ -1,0 +1,7 @@
+.bold {
+  font-weight: 500;
+}
+.positive {
+  composes: bold;
+  color: green;
+}
